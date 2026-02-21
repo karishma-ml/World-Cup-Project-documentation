@@ -1,4 +1,4 @@
-# World-Cup-Project-documentation
+# World_Cup_Project_Documentation
 
 ## Project Summary
 - Developed an interactive Football World Cup Analytics Dashboard to analyze FIFA World Cup match data (1930–2014). The application enables users to explore historical trends, hosting patterns, goal statistics, team performance, and stadium insights through dynamic visualizations and an integrated chatbot.
