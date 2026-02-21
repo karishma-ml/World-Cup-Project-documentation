@@ -15,16 +15,17 @@
 - 📂 Multi-Platform Analysis
 
 ## 💻 Technology Stack
- # Programming
+  Programming
  - Python
- - 
- # Data Visualization 
+   
+  Data Visualization 
  - Plotly Express: interactive charts
  - Tableau : advanced dashboard design
- # Web Framework
+   
+  Web Framework
  - Streamlit
    
- # UI Styling
+  UI Styling
  - HTML
  - CSS
 
@@ -38,5 +39,5 @@
   ## Application Preview
    # Interactive Web Application (Streamlit)
    ![Worldcup](worldcup-preview.png)
-   #Professional Business Dashboard (Tableau)
+   # Professional Business Dashboard (Tableau)
   ![Worldcup](Tableau-worldcup.png)
